@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "Welcome to Our Service!",
+    "body": "Dear [recipient],\n\nWelcome to Zavier! We are excited to have you join our community. Our goal is to provide you with the best service possible.\n\nHere are some resources to get you started:\n1. Getting Started Guide\n2. Support Contact Information\n3. FAQs\n\nIf you have any questions, feel free to reach out to us at [email].\n\nBest regards,\n[full_name]"
+  },
+  {
+    "subject": "Your Account Has Been Created!",
+    "body": "Hello [recipient],\n\nYour account with us has been successfully created. We are thrilled to have you onboard!\n\nTo get started, please review the following:\n- Account Overview\n- Our Services\n- Help Center\n\nFor any questions, you can always contact us at [email].\n\nBest,\n[full_name]"
+  },
+  {
+    "subject": "Thank You for Signing Up!",
+    "body": "Hi [recipient],\n\nThank you for signing up with us! We look forward to serving you.\n\nPlease check out the following resources:\n- Your Dashboard\n- User Guide\n- Customer Support\n\nIf you need assistance, don't hesitate to get in touch at [email].\n\nRegards,\n[full_name]"
+  },
+  {
+    "subject": "Important Information About Your Account",
+    "body": "Dear [recipient],\n\nWe wanted to share some important information regarding your account.\n\nMake sure to review:\n1. Account Settings\n2. Security Tips\n3. Contact Support\n\nFeel free to contact us at [email] if you have any concerns.\n\nSincerely,\n[full_name]"
+  },
+  {
+    "subject": "Update: New Features Available!",
+    "body": "Hello [recipient],\n\nWe have exciting new features available for you to explore!\n\nCheck out:\n- Feature Overview\n- How to Use\n- Support Documentation\n\nFor more details, reach out to us at [email].\n\nBest regards,\n[full_name]"
+  },
+  {
+    "subject": "Reminder: Complete Your Profile",
+    "body": "Hi [recipient],\n\nJust a friendly reminder to complete your profile to get the most out of our service.\n\nPlease fill in:\n- Personal Information\n- Preferences\n- Contact Details\n\nIf you need help, contact us at [email].\n\nThank you,\n[full_name]"
+  },
+  {
+    "subject": "Welcome Back!",
+    "body": "Dear [recipient],\n\nWelcome back! We’re glad to see you again.\n\nHere’s what’s new:\n- Recent Updates\n- New Features\n- Upcoming Events\n\nIf you have any questions, reach out at [email].\n\nWarm regards,\n[full_name]"
+  },
+  {
+    "subject": "Action Required: Verify Your Email",
+    "body": "Hello [recipient],\n\nPlease verify your email address to complete the registration process.\n\nClick the link below to verify:\n[verification_link]\n\nIf you need assistance, contact us at [email].\n\nBest,\n[full_name]"
+  },
+  {
+    "subject": "Your Subscription Confirmation",
+    "body": "Hi [recipient],\n\nThank you for subscribing! Your subscription is now active.\n\nHere’s what you can expect:\n- Subscription Benefits\n- Renewal Information\n- Contact Support\n\nFor any inquiries, email us at [email].\n\nSincerely,\n[full_name]"
+  },
+  {
+    "subject": "Congratulations on Your Achievement!",
+    "body": "Dear [recipient],\n\nCongratulations on reaching a new milestone!\n\nCelebrate with:\n- Special Offers\n- Achievement Details\n- Upcoming Events\n\nIf you have any questions, contact us at [email].\n\nBest wishes,\n[full_name]"
+  },
+  {
+    "subject": "You Have a New Message!",
+    "body": "Hello [recipient],\n\nYou have received a new message in your account.\n\nTo view it, log in and check your inbox.\n\nFor any issues, please reach out to us at [email].\n\nRegards,\n[full_name]"
+  },
+  {
+    "subject": "Account Update Notification",
+    "body": "Hi [recipient],\n\nWe wanted to notify you about an update to your account.\n\nPlease review:\n- Recent Changes\n- Updated Information\n- Support Contacts\n\nIf you have any questions, contact us at [email].\n\nBest regards,\n[full_name]"
+  },
+  {
+    "subject": "New Login Alert",
+    "body": "Dear [recipient],\n\nA new login to your account was detected.\n\nIf this wasn’t you, please secure your account and contact us at [email].\n\nThank you,\n[full_name]"
+  },
+  {
+    "subject": "Special Offer Just for You!",
+    "body": "Hello [recipient],\n\nWe have a special offer just for you!\n\nCheck it out:\n- Discount Details\n- Offer Code\n- Expiration Date\n\nFor more information, email us at [email].\n\nWarm regards,\n[full_name]"
+  },
+  {
+    "subject": "Feedback Requested",
+    "body": "Hi [recipient],\n\nWe would love to hear your feedback on our service.\n\nPlease take a moment to complete our survey:\n[survey_link]\n\nFor questions, reach out to us at [email].\n\nBest,\n[full_name]"
+  },
+  {
+    "subject": "Welcome Aboard!",
+    "body": "Dear [recipient],\n\nWelcome aboard! We’re excited to have you with us.\n\nExplore:\n- Your Dashboard\n- Getting Started Guide\n- Support Resources\n\nIf you need assistance, contact us at [email].\n\nRegards,\n[full_name]"
+  },
+  {
+    "subject": "Security Alert: Password Change",
+    "body": "Hello [recipient],\n\nWe noticed a recent change to your password.\n\nIf this wasn’t you, please secure your account and contact us at [email].\n\nBest regards,\n[full_name]"
+  },
+  {
+    "subject": "Thank You for Your Purchase!",
+    "body": "Hi [recipient],\n\nThank you for your purchase!\n\nHere’s your order summary:\n- Item Details\n- Order Number\n- Shipping Information\n\nFor any questions, email us at [email].\n\nSincerely,\n[full_name]"
+  },
+  {
+    "subject": "Invitation to Our Exclusive Event",
+    "body": "Dear [recipient],\n\nYou’re invited to our exclusive event!\n\nEvent Details:\n- Date and Time\n- Location\n- RSVP Instructions\n\nFor more information, contact us at [email].\n\nBest,\n[full_name]"
+  },
+  {
+    "subject": "Weekly Update Newsletter",
+    "body": "Hello [recipient],\n\nHere’s your weekly update newsletter.\n\nIn this issue:\n- Latest News\n- Upcoming Events\n- Featured Articles\n\nFor questions, reach out to us at [email].\n\nWarm regards,\n[full_name]"
+  },
+  {
+    "subject": "Action Required: Complete Your Registration",
+    "body": "Hi [recipient],\n\nPlease complete your registration to activate your account.\n\nClick the link below to finish:\n[completion_link]\n\nIf you need help, contact us at [email].\n\nBest regards,\n[full_name]"
+  },
+  {
+    "subject": "Your Trial Period is About to End",
+    "body": "Dear [recipient],\n\nYour trial period is about to end.\n\nTo continue using our service, please consider:\n- Upgrading Your Plan\n- Reviewing Our Offers\n- Contacting Support\n\nFor any questions, email us at [email].\n\nSincerely,\n[full_name]"
+  },
+  {
+    "subject": "Account Deactivation Notice",
+    "body": "Hello [recipient],\n\nYour account is scheduled for deactivation.\n\nIf you wish to keep it active, please log in and follow the instructions:\n[deactivation_link]\n\nFor questions, contact us at [email].\n\nBest regards,\n[full_name]"
+  },
+  {
+    "subject": "Reminder: Upcoming Subscription Renewal",
+    "body": "Hi [recipient],\n\nJust a reminder that your subscription will renew soon.\n\nReview your plan and payment details:\n- Subscription Overview\n- Payment Information\n- Renewal Date\n\nFor any questions, reach out to us at [email].\n\nThank you,\n[full_name]"
+  },
+  {
+    "subject": "Your Invoice is Ready",
+    "body": "Dear [recipient],\n\nYour invoice is now available.\n\nView and download it here:\n[invoice_link]\n\nIf you have any questions, contact us at [email].\n\nBest,\n[full_name]"
+  }
+]

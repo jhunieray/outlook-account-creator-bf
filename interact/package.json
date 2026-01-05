@@ -1,0 +1,23 @@
+{
+  "name": "outlook-account-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@2captcha/captcha-solver": "^1.0.4",
+    "chromedriver": "^128.0.1",
+    "csv-parser": "^3.0.0",
+    "fingerprint-injector": "^2.1.55",
+    "fs": "^0.0.1-security",
+    "geckodriver": "^4.4.1",
+    "node-capsolver": "^1.0.8",
+    "puppeteer": "^22.12.1",
+    "selenium-webdriver": "^4.23.0"
+  }
+}
