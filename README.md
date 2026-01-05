@@ -16,6 +16,8 @@ The script supports both headless and non-headless execution modes.
 - Multiple and randomized User-Agent support
 - Can run in headless or visible browser mode
 - Human-like interaction flow
+- Cookie injection to maintain session continuity
+- Post-creation interaction simulation to reduce suspension risk
 
 *Important Note on CAPTCHA*
 
